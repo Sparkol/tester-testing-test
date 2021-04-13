@@ -1,15 +1,12 @@
 # Sparkol Tester Test
 
-Thank you for taking the time to complete our short test. The test is composed of two sections. The first covers how you would approach some  test scenarios, and the second is includes some general testing questions.
+Thank you for taking the time to complete our short test. The test is composed of two sections. The first covers how you would approach some test scenarios, and the second includes general testing questions.
 
 ## Section 1: Scenarios
 
 1. What test cases would you write for our buy page [https://www.videoscribe.co/en/buy](https://www.videoscribe.co/en/buy):
 
 ![Videoscribe Buy Page](static/buy-page.png "Videoscribe.co buy page")
-
-
-
 
 2. What test cases would you write for our checkout page [https://www.videoscribe.co/en/Checkout](https://www.videoscribe.co/en/Checkout):
 
