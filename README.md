@@ -24,19 +24,26 @@ Thank you for taking the time to complete our short test. The test is composed o
 ![Videoscribe Desktop](static/vsd.png "Videoscribe Desktop")
 
 
-- What do you think about the overall quality of our [https://www.videoscribe.co](https://www.videoscribe.co) website?
-  
-
 ## Section 2: General questions
 
-- How will you decide when to automate the test?
+- What do you think about the overall quality of our [https://www.videoscribe.co](https://www.videoscribe.co) website?
+
+- What are the phases involved in Software Tesing Life Cycle?
+
+- What information would you expect to have in a user story?
+
+- What information would you have in a defect?
+
+### Answer if you have automation experience:
+
+- How will you decide when to automate a test?
+  
+- What are the different types of testing framework techniques?
 
 - What do you do in the planning phase of automation?
 
+- Describe your plan for automation testing of the following webpage: [https://www.videoscribe.co/en/login](https://www.videoscribe.co/en/login)
+
 - Can you automate captcha/recaptcha (e.g. [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/) )
 
-- What are the phases involved in Software Testing Life Cycle?
 
-- What information would you expect to have in a user story
-
-- What information would you have in a defect
